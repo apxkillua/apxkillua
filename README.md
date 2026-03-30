@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Killua
 
-🔐 Cybersecurity + GenAI Enthusiast  
-💻 Building AI-powered security tools  
-🚀 Interested in hacking, automation, and AI  
+🔥 AI + Cybersecurity Builder  
+🔐 Creating tools that detect threats and automate security  
+🚀 Focused on real-world problem solving using GenAI  
 
 ---
 
@@ -15,16 +15,18 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 🔐 AI Phishing Detector
+Detects phishing messages using pattern analysis, keyword detection, and risk scoring.
 
 ### 🤖 AI Text Analyzer
-Summarizes text and extracts key insights using AI.
+Summarizes text and extracts key insights using AI-style processing.
 
-### 🔐 AI Phishing Detector (Coming Soon)
-AI-based tool to detect phishing emails and analyze risk.
+---
 
-### 🤖 Smart Recon Tool (Coming Soon)
-Automates recon and summarizes attack surface using AI.
+## 🎯 Current Focus
+Building AI-powered cybersecurity tools and exploring real-world threat detection.
 
 ---
 
