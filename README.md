@@ -1,4 +1,4 @@
-# 👋 Hi, I'm killua
+# 👋 Hi, I'm Killua
 
 🔐 Cybersecurity + GenAI Enthusiast  
 💻 Building AI-powered security tools  
